@@ -1,0 +1,18 @@
+body {
+  color: #333;
+}
+
+#main {
+  margin: auto;
+  max-width: 35rem;
+}
+
+#logo {
+  width: 30%;
+  display: block;
+  margin: 30px auto 50px auto;
+}
+
+#content {
+  padding: 0 1rem 0 1rem;
+}
