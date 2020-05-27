@@ -1,1 +1,1 @@
-# integritetspolicy
+# Privacy Policy
